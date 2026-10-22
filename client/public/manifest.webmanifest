@@ -1,0 +1,12 @@
+{
+  "name": "Partlog",
+  "short_name": "Partlog",
+  "description": "Track the parts and prices for every project you build.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EDF0F6",
+  "theme_color": "#101B30",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
